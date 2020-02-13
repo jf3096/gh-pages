@@ -96,7 +96,7 @@ function main(args) {
       depth: program.depth,
       dotfiles: !!program.dotfiles,
       add: !!program.add,
-      only: program.remove,
+      remove: program.remove,
       remote: program.remote,
       push: !!program.push,
       history: !!program.history,
