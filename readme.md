@@ -1,6 +1,8 @@
 
 # gh-pages
 
+Fork fix: https://github.com/tschaub/gh-pages/issues/334
+
 Publish files to a `gh-pages` branch on GitHub (or any other branch anywhere else).
 
 ## Getting Started
